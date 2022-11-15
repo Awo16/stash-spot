@@ -1,5 +1,5 @@
-A = "This"
+C = "What"
 B = "Is"
-C = "Awesome!"
+A = "It"
 
-print(A, B, C)
+print(A, B, C, A, B)
